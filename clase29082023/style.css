@@ -1,0 +1,66 @@
+h1{
+    border: 1px solid red;
+    padding-left: 22px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+p{
+    border: 1px solid pink;
+    margin-left: 25px;
+    margin-top: 35px;
+    padding-bottom: 10px;
+
+    padding-left: 15px;
+    height: 20px;
+    width: 45px;
+}
+
+.img0 {
+    height: 200px;
+    width: 45px;
+}
+
+.img1{
+    height: 600px;
+    width: 500px;
+}
+
+.img3{
+    width: 500px;
+}
+
+.pag1{
+    border: 1px solid pink;
+    margin-left: 250px;
+    margin-top: 350px;
+    padding-bottom: 450px;
+
+    padding-left: 150px;
+    height: 200px;
+    width: 450px;
+}
+
+.p2{
+    color: maroon;
+}
+
+.p3{
+    color: blueviolet;
+    background-color: pink;
+}
+
+.p4{
+    border: 1px solid violet;
+    margin-left: 100px;
+    margin-top: 200px; 
+
+    padding-left: 100px;
+    height: 100px;
+    width: 200px;
+
+    color: blueviolet;
+    background-color: lightpink;
+}
+
+
+
