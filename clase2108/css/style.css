@@ -1,0 +1,22 @@
+
+p {
+    color: blue;
+}
+
+h1{
+    font-size: 3em;
+}
+
+.trabajo p:nth-child(1){
+ color: plum;
+}
+
+.trabajo p:nth-child(2){
+    background-color: pink;
+    
+   }
+
+.trabajo p:nth-child(3){
+    background-color: pink;
+    color: blueviolet;
+   }
